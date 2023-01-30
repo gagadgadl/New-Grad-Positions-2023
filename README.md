@@ -1,7 +1,7 @@
 
 # 2023 New Grad Applications
 
-The 2023 Full time grind has begun! Use this repo to share and keep track of any full time positions in Quant, Data Scientist, SWE, ML Engineer and PM.
+# The 2023 Full time grind has begun! Use this repo to share and keep track of any full time positions in Quant, Data Scientist, SWE, ML Engineer and PM.
 
 **Contribute by making a pull request!**
 
